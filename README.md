@@ -4,7 +4,8 @@ Este repositório contém uma série de exercícios de programação em Python q
 # Sobre os Códigos
 Autorais: Todos os códigos são de minha autoria e foram feitos de forma independente. O objetivo principal é a prática e o aprendizado contínuo.
 
-# Treinamento Pessoal: Os exercícios não seguem exatamente os padrões ou objetivos de problemas típicos encontrados em plataformas de desafios, mas sim focam em aprender e explorar a linguagem de maneira pessoal e prática. Além disso, a documentação dos códigos também é parte desse processo de treinamento, garantindo que eu compreenda a importância de documentar adequadamente minhas soluções e ajude no aprimoramento das minhas habilidades de escrita técnica.
+# Treinamento Pessoal
+Os exercícios não seguem exatamente os padrões ou objetivos de problemas típicos encontrados em plataformas de desafios, mas sim focam em aprender e explorar a linguagem de maneira pessoal e prática. Além disso, a documentação dos códigos também é parte desse processo de treinamento, garantindo que eu compreenda a importância de documentar adequadamente minhas soluções e ajude no aprimoramento das minhas habilidades de escrita técnica.
 
 # Exemplo de Exercício - Conversão de Temperatura
 Aqui está um exemplo de um exercício simples que converte uma temperatura de Celsius para Fahrenheit. Note que, como parte do meu aprendizado, eu busquei explorar e lidar com entradas inválidas e apresentar resultados de forma clara.
